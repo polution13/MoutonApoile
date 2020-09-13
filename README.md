@@ -1,6 +1,4 @@
 # MoutonApoile
-Broome
-Premier commit du project .
-have to define wich techno server and front side 
-server side : 
-front side :
+
+server side : java framework spring 
+front side : angular 
